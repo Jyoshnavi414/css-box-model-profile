@@ -1,0 +1,61 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #797f4a;
+  color: rgb(69, 113, 35);
+  margin: 0;
+  padding: 0;
+}
+
+/* Box model demo */
+.box {
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid #161346;
+  background-color: #fffafa;
+  border-radius: 8px;
+}
+
+/* Header styling */
+header {
+  text-align: center;
+  background-color: #46dcf0;
+}
+
+/* Navigation styling */
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #465886;
+  font-weight: bold;
+}
+
+/* Section headings */
+section h2 {
+  color: #39627b;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  background-color: #77a5ab;
+}
+
+/* Image styling */
+img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 50%;
+  border: 3px solid #04322d;
+}
