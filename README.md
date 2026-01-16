@@ -9,7 +9,7 @@ Created for **Task 2 of ELWEB**, this project builds on semantic structure and i
 
 - `index.html` — Semantic HTML profile layout
 - `style.css` — External stylesheet applying box model styling
-- `profile.jpg` — Optional profile image (add your own)
+- `profile.jpg` — Profile image
 
 ---
 
@@ -29,5 +29,5 @@ Created for **Task 2 of ELWEB**, this project builds on semantic structure and i
 1. Clone the repository:
    ```bash
    git clone https://github.com/jyoshnavi414/css-box-model-profile.git
-# css-box-model-profile
+
 
